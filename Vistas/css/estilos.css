@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background: -webkit-linear-gradient(
+		-45deg,
+		rgb(14, 40, 233) 0%,
+		rgb(32, 218, 215) 100%
+	);
+}
+h1 {
+	text-align: center;
+	color: whitesmoke;
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+	padding-bottom: 2rem;
+	padding-top: 2rem;
+}
+form {
+	background: whitesmoke;
+	width: 50% !important;
+	padding: 2rem;
+	border-radius: 0.1rem;
+	margin-bottom: 1rem;
+	border: solid 1px black;
+}
+input {
+}
